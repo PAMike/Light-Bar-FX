@@ -1,8 +1,7 @@
 # Light Bar FX
 Light Bar FX enables any developer to easily hook up custom light bar colour animations in their projects. No C++ is required to use this plugin, simply add our Light Bar FX Component to your player controller, create a Light Bar FX Animation Bank asset, add your desired animations to the bank e.g. take damage, ambient, cast spell, UI menu selection, the list is endless! ...finally just start them from either a Blueprint or C++ via the Light Bar FX Component.
 
-Features:
-
+__Features__:
 No C++ required to use.
 The Light Bar FX Animation Base class is Blueprintable for custom light values.
 The Light Bar FX Animation Bank asset supports either FName or FGameplayTag for animation convenient naming and lookups.
@@ -12,7 +11,7 @@ All Light Bar FX Animations have durations and time adjustment curves for varyin
 Completely cross-platform code even if the light bar is not present on the hardware.
 In-place time curve creation with linear, sine, random, pass through, log predefines.
 
-Code Modules:
+__Code Modules__:
 Light Bar FX (Runtime)
 Light Bar FX Editor (Editor)
 
