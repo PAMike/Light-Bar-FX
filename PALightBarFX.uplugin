@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Light Bar FX",
+	"Description": "Light Bar FX is a simple way to manage, create and play colour animations for the gamepad light bar.",
+	"Category": "Input Devices",
+	"CreatedBy": "PLASTIC ANT SOFTWARE",
+	"CreatedByURL": "www.plasticant.co.uk",
+	"DocsURL": "www.plasticant.co.uk",
+	"SupportURL": "www.plasticant.co.uk",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"EngineVersion": "4.21.0",
+	"EnabledByDefault": false,
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0206223b558e4116aae37010cbd9da39",
+	"RequiresBuildPlatform": false,
+	"SupportedTargetPlatforms": [ "Win32", "Win64", "PS4" ],
+	"Modules":
+	[
+		{
+			"Name": "PALightBarFX",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win32", "Win64", "PS4" ]
+		},
+		{
+			"Name": "PALightBarFXDualshock",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win32", "Win64" ]
+		},
+		{
+			"Name": "PALightBarFXEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win32", "Win64" ]
+		}
+	]
+}
