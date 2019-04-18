@@ -15,10 +15,10 @@ __Code Modules__:
 Light Bar FX (Runtime)
 Light Bar FX Editor (Editor)
 
-Number of Blueprints: 0
-Number of C++ Classes: 9
-Network Replicated: No
-Supported Development Platforms: Windows
+Number of Blueprints: 0,
+Number of C++ Classes: 9,
+Network Replicated: No,
+Supported Development Platforms: Windows,
 Supported Target Build Platforms: Windows, PlayStation 4
 
 __Note__:
