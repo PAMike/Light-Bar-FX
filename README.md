@@ -9,17 +9,17 @@ Light Bar FX enables any developer to easily hook up custom light bar colour ani
 * All Light Bar FX Animations are loopable or can be looped for a number of times.
 * All Light Bar FX Animations have durations and time adjustment curves for varying effects.
 * Completely cross-platform code even if the light bar is not present on the hardware.
-* In-place time curve creation with linear, sine, random, pass through, log predefines.
+* In-place time curve creation with linear, sine, random, pass through, log predefines
+
+* Number of Blueprints: 0
+* Number of C++ Classes: 9
+* Network Replicated: No
+* Supported Development Platforms: Windows
+* Supported Target Build Platforms: Windows, PlayStation 4
 
 ## Code Modules:
-Light Bar FX (Runtime)
-Light Bar FX Editor (Editor)
-
-Number of Blueprints: 0
-Number of C++ Classes: 9
-Network Replicated: No
-Supported Development Platforms: Windows
-Supported Target Build Platforms: Windows, PlayStation 4
+* Light Bar FX (Runtime)
+* Light Bar FX Editor (Editor)
 
 
 # Example Project
